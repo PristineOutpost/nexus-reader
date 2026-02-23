@@ -1,0 +1,20 @@
+{
+  "sources": [
+    {
+      "name": "ComixTo",
+      "id": "comixto",
+      "icon": "",
+      "website": "https://comix.to",
+      "version": "1.0.0",
+      "description": "ComixTo manga source",
+      "author": "Nexus Reader",
+      "authorWebsite": "",
+      "rating": 5,
+      "ratingCount": 1,
+      "pageRarelyLatest": false,
+      "hasPageNumbers": true,
+      "isNsfw": false,
+      "isCompleted": false
+    }
+  ]
+}
